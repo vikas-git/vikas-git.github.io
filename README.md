@@ -1,1 +1,5 @@
-# vikas-profule.github.io
+# my-profile
+
+Author: Vikas
+
+This is my profile repo.
